@@ -32,12 +32,12 @@ nav {
     font-size: 20px;
 }
 
-ul #nav1 {
+nav ul {
     list-style-type: none;
 
 }
 
-.nav-li {
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
