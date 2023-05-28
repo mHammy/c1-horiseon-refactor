@@ -33,6 +33,8 @@ https://learntheweb.courses/topics/html-semantics-cheat-sheet/
 
 https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf
 
+https://www.w3schools.com/html/html_favicon.asp
+
 ## License
 
 Please refer to the License in the repository.
