@@ -9,6 +9,8 @@
 
 ![Image of the full website application](assets/images/Full-website.png)
 
+Link to application: https://mhammy.github.io/c1-horiseon-refactor/
+
 ## Installation
 
 N/A
